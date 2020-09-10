@@ -4,3 +4,4 @@ Rencana Kedepan
 - Beli buku
   # Vue.js
   # laravel
+- struktur data
