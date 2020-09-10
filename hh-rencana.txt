@@ -1,0 +1,4 @@
+Rencana Kedepan
+- Belajar JS lebih dalam
+- Vue.js 
+- Beli buku
