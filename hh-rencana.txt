@@ -7,3 +7,4 @@ Rencana Kedepan
 - struktur data
 - php lebih dalam
 - python
+= type script
