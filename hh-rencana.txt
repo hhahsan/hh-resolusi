@@ -5,3 +5,5 @@ Rencana Kedepan
   # Vue.js
   # laravel
 - struktur data
+- php lebih dalam
+- python
