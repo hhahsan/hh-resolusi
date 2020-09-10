@@ -2,3 +2,5 @@ Rencana Kedepan
 - Belajar JS lebih dalam
 - Vue.js 
 - Beli buku
+  # Vue.js
+  # laravel
