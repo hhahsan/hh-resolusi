@@ -1,7 +1,8 @@
 Rencana Kedepan
 - Belajar JS lebih dalam
-- Vue.js 
+- Angular.js 
 - Beli buku
   # Vue.js
   # laravel
 - struktur data
+- Data science
